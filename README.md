@@ -1,6 +1,6 @@
 # Android weather station [application](https://goo.gl/xUc9Ft) by app inventor 
+ an android application is to read the values you wich to send by Arduino through the HC-05 bluetooth module. 
  # Overview
- - This android application is to read the values you wich to send by Arduino through the HC-05 bluetooth module. 
  - You can run the app on any android device which has a bluetooth.
  - It's made by MIT app inventor which is simmilar to scratch as it uses units of blocks to run the application.
  - I've published my project to the app inventor gallery, so you could open the app either to view the blocks of the project or to download the apk from the app inventor gallery (after registration) from [here]( ai2.appinventor.mit.edu/?galleryId=6308018557550592).
